@@ -1,2 +1,3 @@
 GitHubリポジトリ作成テスト
 更新テスト
+.git add .git commit
